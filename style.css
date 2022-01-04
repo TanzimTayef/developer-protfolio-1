@@ -45,6 +45,7 @@ h1{
     background-image: url(assiets/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+    background-attachment: fixed;
 }
 .half-width{
     width: 50%;
@@ -74,6 +75,7 @@ p{
     background-image: url(assiets/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+    background-attachment: fixed;
 }
 .expe-box{
     width: 40%;
@@ -99,6 +101,7 @@ p{
     color: #fff;
     background-size: cover;
     background-position: center;
+    background-attachment: fixed;
 }
 .red-btn{
     background: transparent;
